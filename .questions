@@ -1,0 +1,15 @@
+INSTRUCTIONS:
+PERFORM ALL ACTIONS USING TERMINAL ONLY.
+PERFORM ALL ACTIONS BY ROOT USER ONLY
+
+Q) Create a script file of all of these commands save this as “champak.sh”
+
+     Create a directory named “Lab Tech”
+     Create 100 directories under that.
+     Copy the last 20 characters of a “text file” to “text file 2”
+     Give the executable permissions to only owner. 
+
+     Execute champak.sh as “Lolu”
+    
+     Commit all the changes to git (refer cheat sheet).
+
